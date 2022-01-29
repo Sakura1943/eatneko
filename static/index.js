@@ -13,7 +13,7 @@ let hide = false;
 let __Time = 20;
 let __k = 4;
 let uppic = false;
-var url = 'https://sakura1943.github.io/eatneko/static/image/ClickBefore.png';
+var url = 'https://eatneko.sakunia.tk/static/image/ClickBefore.png';
 
 function isplaying() {
     return document.getElementById('welcome').style.display == 'none' &&
